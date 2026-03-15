@@ -37,15 +37,15 @@ logo, but indicated that is _actually_ a web browser.
       smaller letters 'i' & 'm'
     * Applying the 'compass' icon the "green tile" in a darker green, rotated
       slightly so that the compass needle aligns with the angle of the large,
-      gray, Vim vee's vertex[type-anatomy]
+      gray, Vim vee's [vertex][type-anatomy]
     * Scaling down and repositioning the gray Vim vee and over the "green
       tile" such that:
-        * The vee's head serif[type-anatomy] are centered around the pivot
+        * The vee's [head serif][type-anatomy] are centered around the pivot
           point (pin?) of the compass needle
         * The vee covers the edges of the bottom half of the compass needle,
-          revealing the needle in its vertex[type-anatomy]
-        * The crotch[type-anatomy] of the vee still extends beyond the bounds
-          of the "green tile", like the original Vim logo
+          revealing the needle in its [vertex][type-anatomy]
+        * The [crotch][type-anatomy] of the vee still extends beyond the
+          bounds of the "green tile", like the original Vim logo
 
 [type-anatomy]: See [LetterParts.com](https://letterparts.com/)'s interactive
     type anatomy
