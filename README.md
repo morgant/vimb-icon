@@ -47,6 +47,9 @@ logo, but indicated that is _actually_ a web browser.
         * The crotch[type-anatomy] of the vee still extends beyond the bounds  
           of the "green tile", like the original Vim logo
 
+[type-anatomy]: See [LetterParts.com](https://letterparts.com/)'s interactive
+    type anatomy
+
 ## LICENSE
 
 _TBD_
