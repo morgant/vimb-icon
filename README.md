@@ -1,4 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/morgant/vimb-icon/refs/heads/main/.github/images/vimb-transparent-512x512.png" ALT="Vimb icon (unofficial)" /></p>
+
 # Vimb icon
+
 by Morgan Aldridge <morgant@makkintosshu.com>
 
 ## OVERVIEW
