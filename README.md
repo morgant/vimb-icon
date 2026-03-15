@@ -54,6 +54,6 @@ logo, but indicated that is _actually_ a web browser.
 
 _TBD_
 
-Vim, and presumably `vimlogo.svg`, is licensed under the [Vim License](https://github.com/vim/vim/blob/master/LICENSE.
+Vim, and presumably `vimlogo.svg`, is licensed under the [Vim License](https://github.com/vim/vim/blob/master/LICENSE).
 
 `compass-3-line.svg` is licensed under the [Remix Icon License v1.0](https://github.com/Remix-Design/RemixIcon/blob/master/License).
