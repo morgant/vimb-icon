@@ -55,11 +55,11 @@ logo, but indicated that is _actually_ a web browser.
 
 ## LICENSE
 
-_TBD_
+Released under the [MIT license](LICENSE).
 
 Vim and [`vimlogo.svg`](https://github.com/vim/vim/blob/master/runtime/vimlogo.svg)
-are licensed under the [Vim License](https://github.com/vim/vim/blob/master/LICENSE).
+are licensed under the [Vim license](https://github.com/vim/vim/blob/master/LICENSE).
 (See also: [originals/vimlogo/](originals/vimlogo/README.md).)
 
-`compass.svg` is licensed under the [MIT License](https://github.com/primefaces/primeicons/blob/master/LICENSE).
+`compass.svg` is licensed under the [MIT license](https://github.com/primefaces/primeicons/blob/master/LICENSE).
 (See also: [originals/compass/](originals/compass/README.md).)
