@@ -7,7 +7,7 @@ The 'compass' icon in SVG format (`compass-3-line.svg`) is sourced from the
 open source icon library. It is also available from the [Remix Icon
 website](https://remixicon.com/icon/compass-3-line).
 
-[`compass-3-line.svg`](vimlogo.svg) is included here in its original,
+[`compass-3-line.svg`](compass-3-line.svg) is included here in its original,
 unmodified, form for reference.
 
 ## LICENSE
