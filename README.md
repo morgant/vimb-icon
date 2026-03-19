@@ -18,8 +18,8 @@ whichever format/resolution/etc. you need.
 I just wanted something that looked similar to the [Vim](https://www.vim.org/)
 logo, but indicated that is _actually_ a web browser.
 
-1. I started with the [official Vim logo](originals/vimlogo/README.md),
-    specifically: [`vimlogo.svg`](https://www.vim.org/images/vimlogo.svg)
+1. I started with the official Vim logo, specifically:
+    [`vimlogo.svg`](originals/vimlogo/README.md)
 2. Since it is built around [WebKitGTK](https://webkitgtk.org/), I checked
     for an official logo
     * Unfortunately, the WebKitGTK project doesn't have its own and the
@@ -59,5 +59,8 @@ _TBD_
 
 Vim and [`vimlogo.svg`](https://github.com/vim/vim/blob/master/runtime/vimlogo.svg)
 are licensed under the [Vim License](https://github.com/vim/vim/blob/master/LICENSE).
+(See also: [originals/vimlogo/](originals/vimlogo/README.md).)
 
-`compass-3-line.svg` is licensed under the [Remix Icon License v1.0](https://github.com/Remix-Design/RemixIcon/blob/master/License).
+`compass-3-line.svg` is licensed under the [Remix Icon License
+v1.0](https://github.com/Remix-Design/RemixIcon/blob/master/License). (See
+also: [originals/compass-3-line/](originals/compass-3-line/README.md).)
