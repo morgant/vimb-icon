@@ -15,7 +15,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#">
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Vimb application icon</title>
   <defs
      id="defs94">
     <linearGradient
@@ -39,11 +42,11 @@
      showgrid="false"
      inkscape:zoom="2.9824096"
      inkscape:cx="146.35817"
-     inkscape:cy="146.35817"
-     inkscape:window-width="1391"
-     inkscape:window-height="1382"
-     inkscape:window-x="21"
-     inkscape:window-y="61"
+     inkscape:cy="146.52582"
+     inkscape:window-width="1473"
+     inkscape:window-height="1357"
+     inkscape:window-x="58"
+     inkscape:window-y="126"
      inkscape:window-maximized="1"
      inkscape:current-layer="vimb-app-icon"
      showguides="true">
@@ -166,7 +169,8 @@
        inkscape:label="primeicons-compass"
        inkscape:transform-center-x="-33.106167"
        inkscape:transform-center-y="-68.611331"
-       style="display:inline;fill:#006b05;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1">
+       style="display:inline;fill:#006b05;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:insensitive="true">
       <path
          d="m -87.206304,147.99617 -29.470846,31.92117 a 21.66528,21.66528 0 0 0 -5.89707,16.20209 l 2.05747,43.39663 a 2.8008347,2.8008347 0 0 0 2.95035,2.62352 2.9655897,2.9655897 0 0 0 1.86648,-0.87034 l 29.470848,-31.92119 a 21.66528,21.66528 0 0 0 5.897079,-16.20209 l -2.057472,-43.39661 a 2.8008347,2.8008347 0 0 0 -2.950356,-2.62355 2.9655897,2.9655897 0 0 0 -1.866483,0.87037 z m -10.685656,53.88351 a 8.237749,8.237749 0 1 1 3.984511,-10.94736 8.237749,8.237749 0 0 1 -3.984511,10.94736 z"
          id="path1"
@@ -175,34 +179,6 @@
          d="m -70.040578,261.60716 a 74.139741,74.139741 0 1 1 35.860542,-98.5262 74.139741,74.139741 0 0 1 -35.860542,98.5262 z M -127.48407,138.41921 a 61.783117,61.783117 0 1 0 82.105129,29.88388 61.783117,61.783117 0 0 0 -82.105129,-29.88388 z"
          id="path2-1"
          style="fill:#006b05;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="remix-icon-compass-3-line"
-       transform="rotate(-25,145.61816,147.42881)"
-       style="display:none;fill:#006b05;fill-opacity:1;stroke:none"
-       sodipodi:insensitive="true">
-      <path
-         id="path15"
-         style="fill:#006b05;fill-opacity:1;stroke:none;stroke-width:7.57198"
-         d="m 179.69141,113.35547 -49.2168,18.92969 -18.92969,49.21875 49.2168,-18.92969 z m -34.07422,26.50195 c 4.18199,0 7.57226,3.39027 7.57226,7.57227 0,4.18199 -3.39027,7.57226 -7.57226,7.57226 -4.182,0 -7.57031,-3.39027 -7.57031,-7.57226 0,-4.182 3.38831,-7.57227 7.57031,-7.57227 z" />
-      <path
-         id="path11"
-         style="fill:#006b05;fill-opacity:1;stroke:none;stroke-width:7.57198"
-         d="m 145.61719,71.708984 c -41.81886,0 -75.718752,33.901846 -75.718752,75.720706 0,41.81848 33.899892,75.71875 75.718752,75.71875 41.81848,0 75.7207,-33.90027 75.7207,-75.71875 0,-41.81886 -33.90222,-75.720706 -75.7207,-75.720706 z m 0,15.144532 c 33.45524,0 60.57617,27.121074 60.57617,60.576174 0,33.45524 -27.12093,60.57617 -60.57617,60.57617 -33.45509,0 -60.574221,-27.12093 -60.574221,-60.57617 0,-33.4551 27.119131,-60.576174 60.574221,-60.576174 z" />
-    </g>
-    <g
-       id="remix-icon-compass-3-line-edge"
-       transform="rotate(-25,145.61816,147.42881)"
-       style="display:none;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:insensitive="true">
-      <path
-         id="path21"
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
-         d="m 179.69141,113.35547 -49.2168,18.92969 -18.92969,49.21875 49.2168,-18.92969 z m -34.07422,26.50195 c 4.18199,0 7.57226,3.39027 7.57226,7.57227 0,4.18199 -3.39027,7.57226 -7.57226,7.57226 -4.182,0 -7.57031,-3.39027 -7.57031,-7.57226 0,-4.182 3.38831,-7.57227 7.57031,-7.57227 z" />
-      <path
-         id="path23"
-         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
-         d="m 145.61719,71.708984 c -41.81886,0 -75.718752,33.901846 -75.718752,75.720706 0,41.81848 33.899892,75.71875 75.718752,75.71875 41.81848,0 75.7207,-33.90027 75.7207,-75.71875 0,-41.81886 -33.90222,-75.720706 -75.7207,-75.720706 z m 0,15.144532 c 33.45524,0 60.57617,27.121074 60.57617,60.576174 0,33.45524 -27.12093,60.57617 -60.57617,60.57617 -33.45509,0 -60.574221,-27.12093 -60.574221,-60.57617 0,-33.4551 27.119131,-60.576174 60.574221,-60.576174 z" />
     </g>
     <g
        id="vim-logo-capital-vee"
@@ -407,8 +383,20 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
+        <dc:title>Vimb application icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Morgan T. Aldridge</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright (c) 2026 Morgan T. Aldridge</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>vimlogo.svg &amp; compass.svg</dc:source>
         <cc:license
-           rdf:resource="https://raw.githubusercontent.com/vim/vim/master/LICENSE" />
+           rdf:resource="https://github.com/morgant/vimb-icon/blog/main/LICENSE" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -28,9 +28,9 @@ logo, but indicated that is _actually_ a web browser.
     * I'm not a huge fan of the current WebKit logo anyway, plus the design
       language clashes with the Vim logo's design
 3.  Instead, I looked for an appropriately licensed 'compass' icon (more
-    Safari/WebKit-like) to incorporate into the Vim logo, finding the [Remix
-    Icon](https://github.com/Remix-Design/RemixIcon/) project, specifically:
-    [`compass-3-line.svg`](https://github.com/Remix-Design/RemixIcon/blob/master/icons/Map/compass-3-line.svg)
+    Safari/WebKit-like) to incorporate into the Vim logo, finding the
+    [PrimeIcons](https://github.com/primefaces/primeicons/) project,
+    specifically: [`compass.svg`](originals/compass/README.md)
 4.  I manualy separated and recombined the Vim logo's components with the
     compass asset in Inkscape, ultimately making the following design
     decisions:
@@ -61,6 +61,5 @@ Vim and [`vimlogo.svg`](https://github.com/vim/vim/blob/master/runtime/vimlogo.s
 are licensed under the [Vim License](https://github.com/vim/vim/blob/master/LICENSE).
 (See also: [originals/vimlogo/](originals/vimlogo/README.md).)
 
-`compass-3-line.svg` is licensed under the [Remix Icon License
-v1.0](https://github.com/Remix-Design/RemixIcon/blob/master/License). (See
-also: [originals/compass-3-line/](originals/compass-3-line/README.md).)
+`compass.svg` is licensed under the [MIT License](https://github.com/primefaces/primeicons/blob/master/LICENSE).
+(See also: [originals/compass/](originals/compass/README.md).)
